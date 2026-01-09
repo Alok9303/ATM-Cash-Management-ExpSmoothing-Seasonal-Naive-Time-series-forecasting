@@ -45,7 +45,7 @@ Uses the NN5 dataset from the Neural Forecasting Competition:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/atm-cash-forecasting.git
+git clone https://github.com/alok9303/atm-cash-forecasting.git
 cd atm-cash-forecasting
 
 # Install required packages
